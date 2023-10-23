@@ -50,8 +50,12 @@
     .top{
         font-size: 10px;
         color: black;
-        font-weight: bold;
-    }
+        font-size: bold;
+}
+.buttonmi{
+display: flex;
+padding:10px;
+}
 .button1{
     border-radius: 10px;
     color: black;
